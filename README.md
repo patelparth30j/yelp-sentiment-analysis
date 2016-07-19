@@ -1,5 +1,5 @@
 # Synopsis
-My  Analysis of [Yelp Data Set](https://www.yelp.com/dataset_challenge) to predict user sentiments based on their review. I have converted data in json format to pandas data frame and made some changes to the original json data structure to reduce duplicates and make data more accessible for query and analysis. I am joining three tables, Business, Review and User. Following are the steps followed in the project-
+Our Analysis of [Yelp Data Set](https://www.yelp.com/dataset_challenge) to predict user sentiments based on their review. 
 
 ## [Data Cleaning](yelp_01dataCleaning.ipynb)
 1.	Lowercase
